@@ -1,0 +1,1 @@
+# -Add-the-following-two-NumPy-arrays-and-Modify-a-result-array-by-calculating-the-square-of-each-elem
